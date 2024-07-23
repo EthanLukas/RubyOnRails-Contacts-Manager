@@ -1,4 +1,4 @@
-Full-stack web application built using Ruby on Rails that allows users to create an account to store their friends list data
+Full-stack web application built using Ruby on Rails that allows users to create an account to store their contact list data
 
 
 <img width="1726" alt="Screenshot 2024-07-22 at 9 39 23 PM" src="https://github.com/user-attachments/assets/b7ca7de0-d18b-4a80-b8a7-42584e69ce11">
