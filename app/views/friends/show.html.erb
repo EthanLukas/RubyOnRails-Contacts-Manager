@@ -1,0 +1,19 @@
+<div class="jumbotron">
+  <div class="background-box">
+    <h1 class="display-4"><%= @friend.first_name %> <%= @friend.last_name %></h1>
+    <p class="lead">Contact Information:</p>
+    <hr class="my-4">
+    <p>Email: <%= @friend.email %></p>
+    <p>Phone: <%= @friend.phone %></p>
+    <p>Instagram: <%= @friend.instagram %></p>
+  </div>
+</div>
+
+<br/>
+
+<div>
+  <%= link_to "Edit this friend", edit_friend_path(@friend), class: "btn btn-primary" %>
+  <%= link_to "Back to friends", friends_path, class: "btn btn-primary" %>
+  <br/><br/>
+  <%= button_to "Destroy this friend", @friend, method: :delete %>
+</div>
