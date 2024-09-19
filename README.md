@@ -8,3 +8,6 @@ Full-stack web application built using Ruby on Rails that allows users to create
 
 **Contact Management:**
 <img width="1728" alt="Screenshot 2024-07-22 at 9 38 35 PM" src="https://github.com/user-attachments/assets/4f58736a-060b-4aa4-b712-a2aec8643064">
+
+**What it does** 
+This application allows a user to create and manage their own personalized contact list, using their secure account with correlated individual data. This includes adding, removing, and looking through the contacts.
